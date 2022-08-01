@@ -1,5 +1,7 @@
 # Negative Binomial Distribution
 
+**Definition:** In probability theory and statistics, the negative binomial distribution is a discrete probability distribution that models the number of successes in a sequence of independent and identically distributed Bernoulli trials before a specified (non-random) number of failures (denoted r) occur.
+
 # Negative Binomial Regression
 In survival analysis, we often taken NB regression as a non-survival approach for recurrent event analysis, and the NB regression analyzes the recurrent events as count data — irrespective of when the events occurred
 
